@@ -5,7 +5,7 @@ const Footer = props => {
     return (
         <footer>
             <p>
-                <label>FIND ME ELSEWHERE : </label>
+                <label>FIND ME ELSEWHERE : </label><p />
                 <span>
                     <a href="https://linkedin.com/in/adam-santiaji/">
                         LinkedIn
