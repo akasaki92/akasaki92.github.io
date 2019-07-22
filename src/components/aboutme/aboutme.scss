@@ -1,12 +1,23 @@
 .aboutme {
     top: 0;
-    min-height: 79vh;
-    padding-top: 13vh;
+    min-height: 80vh;
+    padding-top: 12vh;
+    // font-size: 14px;
     p {
         padding-top: 4px;
         color: #000000;
+        text-align: center;
     }
     h1 {
         font-size: 29px;
+        text-align: center;
     }
+}
+.english {
+    margin: 1.5em 0 2.5em;
+    font-size: 14px;
+}
+.whatToDo {
+    margin: 1.5em 0;
+
 }
