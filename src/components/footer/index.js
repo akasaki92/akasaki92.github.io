@@ -13,11 +13,7 @@ const Footer = props => {
                     &nbsp;
                 </span>
                 <span>
-                    <a href="https://gitlab.com/akasaki92/">Gitlab</a>
-                    &nbsp;
-                </span>
-                <span>
-                    <a href="https://github.com/akasaki92/">Github</a>
+                    <a href="hsttps://github.com/akasaki92/">Github</a>
                     &nbsp;
                 </span>
                 <span>
