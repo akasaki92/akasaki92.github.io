@@ -2,10 +2,12 @@ nav ul {
     text-align: right;
     position: fixed;
     width: 100%;
-    background-color: #282c34;
+    // background-color: transparent;
+    // background-color: #282c34;
     li {
         display: inline-block;
         font-weight: bold;
+        line-height: .5em;
         margin: 15px 25px;
         a {
             color: #f2f2f2;
