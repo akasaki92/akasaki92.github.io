@@ -10,7 +10,7 @@ const AboutMe = props => {
             <p>Junior Frontend developer</p>
             <div className="english">
                 <p>
-                    I am currently working as a volunteer Junior front-end
+                    I am was former as a volunteer front-end
                     developer at Kreatorku.com,
                 </p>
                 <p>
